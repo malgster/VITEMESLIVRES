@@ -1,0 +1,34 @@
+main{
+    padding-bottom: 3%;
+}
+
+main>h1{
+    text-align: center;
+    font-size:3em;
+    color: #a51b1b;
+}
+
+main>h2{
+    text-align: center;
+    font-size:2em;
+    color: #a51b1b; 
+}
+
+p {
+    padding-right: 5% ;
+    padding-left: 4%;
+    font-size: 1.2em;
+    text-align: justify;
+}
+
+article{
+    display: flex;
+    flex-direction:row;
+}
+
+article>img{
+    width: 10%;
+    height: 10%;
+    margin-left: 2%;
+    margin-top: 1%;
+}

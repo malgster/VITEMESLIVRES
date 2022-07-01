@@ -1,0 +1,29 @@
+main{
+    padding-bottom: 3%;
+}
+
+main h1 {
+    text-align: center;
+    font-size: 35px;
+    color: #a51b1b;
+}
+h1 + p{
+    padding-top: 0.5%;
+}
+
+p{
+    text-align: justify;
+    font-size:1.2em;
+    margin-left: 5%;
+    margin-right: 5%;
+
+
+}
+
+section>p {
+    text-align: center;
+}
+
+section>img {
+    margin-left: 10%;
+}
